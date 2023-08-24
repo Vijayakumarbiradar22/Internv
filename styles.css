@@ -1,10 +1,11 @@
 body {
-    
+    margin:0;
+    padding:0;
     
 }
 
 h2 {
-    font-style: italic;
+    font-style: bold;
 }
 
 .lorem1 {
@@ -14,15 +15,15 @@ h2 {
 
 ul.navbar {
     list-style-type: none;
-    margin: 0%;
-    padding: 0%;
+    margin: 0;
+    padding: 0;
     background-color: #333;
     overflow: hidden;
 }
 
 ul.navbar li {
     float: left;
-    margin-left: 140pt;
+    margin-left: 90pt;
 }
 
 ul.navbar li a {
@@ -36,3 +37,65 @@ ul.navbar li a {
 ul.navbar li a:hover {
     background-color: #555;
 }
+.side {
+    padding:0 30px;
+}
+
+.bottom-container {
+    margin:0;
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+  }
+  .copyright {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+    margin-left: 500px;
+  }
+  
+ 
+  
+  .footer-link {
+    /* color:#11999E; */
+    font-family: 'Montserrat', sans-serif;
+    margin: 20px 150px;
+    text-decoration: none;
+  
+  }
+  
+  a:hover {
+    
+  }
+
+  .welcome {
+    margin-left: 400px;
+  }
+
+  .para {
+    border: 2px solid black;
+    padding: 10px;
+    background-color: aqua;
+    
+  }
+
+  #department {
+    border: 2px solid black;
+    padding: 10px;
+    background-color: aqua;
+  
+  }
+
+  .marque {
+    background-color: aqua;
+  }
+  .center {
+    margin-left: 450px;
+  }
+
+  .dept {
+    margin-left: 450px;
+  }
+
+  .about {
+    margin-left: 400px;
+  }
