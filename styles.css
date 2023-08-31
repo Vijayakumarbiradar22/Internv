@@ -67,9 +67,6 @@ ul.navbar li a:hover {
     
   }
 
-  .welcome {
-    margin-left: 400px;
-  }
 
   .para {
     border: 2px solid black;
@@ -88,14 +85,7 @@ ul.navbar li a:hover {
   .marque {
     background-color: aqua;
   }
-  .center {
-    margin-left: 450px;
-  }
-
-  .dept {
-    margin-left: 450px;
-  }
-
-  .about {
-    margin-left: 400px;
+  .align {
+    text-align: center;
+    text-decoration: underline;
   }
